@@ -26,7 +26,7 @@ Developed by:PRAVEEN K
 RegisterNumber:  212223230153
 */
 
-
+ 
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -79,14 +79,21 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ## DATA.HEAD()
-![image](https://github.com/user-attachments/assets/65f05d72-cc8e-4476-88d5-f28b3fdad852)
+![image](https://github.com/user-attachments/assets/bb239ebb-63ce-4658-bc5d-38f1057a1ab1)
 
-## X VALUE:
-![image](https://github.com/user-attachments/assets/e20b74f7-b4d3-414f-8d46-e3633a04a128)
+ 
+
+## X VALUE: 
+![image](https://github.com/user-attachments/assets/2bd0bf97-270e-4be7-b4d4-0b773d3d4bd3)
+
 ## X1_SCALED VALUE:
-![image](https://github.com/user-attachments/assets/aa245c28-6535-4538-b0c7-100c8710d091)
+![image](https://github.com/user-attachments/assets/206fa636-a6d1-4bee-80db-cff69bacd36f)
+
+ 
 ## PREDICTED VALUES:
-![image](https://github.com/user-attachments/assets/51d9426b-f391-4ccd-b445-bf525f71e772)
+![image](https://github.com/user-attachments/assets/4880344f-29f6-4b3f-ab98-b6245aa5b221)
+
+ 
 
 
 
