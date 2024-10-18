@@ -10,7 +10,7 @@ To write a program to predict the profit of a city using the linear regression m
 ## Algorithm
 Step 1. Start
 
-Step 2. Import numpy as np
+Step 2. Import numpy as np 
 
 Step 3. Plot the points
 
@@ -20,13 +20,13 @@ Step 5.End
 
 ## Program:
 ```
- /*
+/*
 Program to implement the linear regression using gradient descent.
-Developed by:PRAVEEN K
+Developed by: PRAVEEN K
 RegisterNumber:  212223230153
 */
 
- 
+
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -77,26 +77,23 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 
+
 ## Output:
-## DATA.HEAD()
-![image](https://github.com/user-attachments/assets/bb239ebb-63ce-4658-bc5d-38f1057a1ab1)
+DATA.HEAD()
 
- 
+![Screenshot 2024-08-29 183415](https://github.com/user-attachments/assets/763022ca-616b-4141-942a-109ee33e0446)
 
-## X VALUE: 
-![image](https://github.com/user-attachments/assets/2bd0bf97-270e-4be7-b4d4-0b773d3d4bd3)
+X VALUE 
 
-## X1_SCALED VALUE:
-![image](https://github.com/user-attachments/assets/206fa636-a6d1-4bee-80db-cff69bacd36f)
+![image](https://github.com/user-attachments/assets/83d89cce-8fa6-491b-9c3f-6c18f2c63c3c)
 
- 
-## PREDICTED VALUES:
-![image](https://github.com/user-attachments/assets/4880344f-29f6-4b3f-ab98-b6245aa5b221)
+X1_SCALED VALUE 
 
- 
+![image](https://github.com/user-attachments/assets/0920d359-e997-46a2-844c-740ef89f149a)
 
+PREDICTED VALUES:
 
-
+![image](https://github.com/user-attachments/assets/eb585b7f-3b99-40c0-ab3a-9c6072a7ed39)
 
 
 ## Result:
